@@ -1,2 +1,2 @@
-# projecte03
+# Projecte03
 EverPia II
