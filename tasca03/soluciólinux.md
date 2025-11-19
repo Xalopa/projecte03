@@ -91,7 +91,7 @@ En aquesta comanda usem -s per indicar que es un snapshot.
 Per veure els LV que tenim creats i com la còpia apunta al original usarem la comanda:
 lvs volgrup
 
-![captura13](img/13.png)
+![captura13](img/14.png)
 
 Si volem veure el contingut que té aquesta còpia muntarem el LV per poder veure el contingut que té dins. Per fer-ho crearem una nova carpeta i seguidament muntarem el volum a aquesta
 
