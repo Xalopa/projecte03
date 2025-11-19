@@ -102,6 +102,8 @@ Ara podem veure el contingut que té dins amb la comanda ls /mnt/copia
 
 ![captura14](img/15.png)
 
+Ara ja tindrem creada la snapshot.
+
 
 
 
