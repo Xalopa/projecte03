@@ -17,9 +17,5 @@ El vídeo ha estat publicat en una plataforma de visualització amb els permisos
 - 💼 Incorporar material al portafoli professional
 - 🖥️ Compartir contingut tècnic de forma accessible
 
----
 
-# 🔗 Enllaç del Vídeo
-
-👉 *Afegir aquí l’enllaç del vídeo*
 
